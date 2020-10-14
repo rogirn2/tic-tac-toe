@@ -1,14 +1,14 @@
 # tic-tac-toe
 Projeto jogo da velha em typescript
 
-# pré-requisitos
+### pré-requisitos
 Será necessária a pré-instalação do angular-cli, para isso execute o seguinte comando no seu terminal:
-  npm install -g @angular/cli 
+  >npm install -g @angular/cli 
 
-# para instalar
+### para instalar
 Baixe ou clone a aplicação e execute o seguinte comando no seu terminal:
- ng serve
+ >ng serve
  
- # para jogar
- Após executar o comando acima (ng-serve), abra o seu navegador em:
-  localhost:4200
+### para jogar
+Após executar o comando acima (ng-serve), abra o seu navegador em:
+  >localhost:4200
