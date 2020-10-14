@@ -1,5 +1,5 @@
 # tic-tac-toe
-Projeto jogo da velha em angular
+Projeto jogo da velha em typescript
 
 # pré-requisitos
 Será necessária a pré-instalação do angular-cli, para isso execute o seguinte comando no seu terminal:
